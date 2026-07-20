@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Sudip Pandit, an aspiring Software Developer passionate about building scalable and user-centric applications. I specialize in Python, Django, and SQL, with additional experience in C, Java, and Data Structures & Algorithms.<br>I'm currently exploring Django REST Framework to deepen my backend development skills and build robust APIs. I enjoy solving real-world problems through code and continuously learning new technologies.<br><br>📚 Certifications:<br>Python Foundation (Wingspan)<br>AWS Academy Graduate – Cloud Foundations<br>AWS Academy Graduate – Machine Learning Foundations<br>💡 Projects:<br>Recipe Manager Web App (Django, CRUD, Image Upload)<br>GitHub Timeline Email Verification System (PHP, CRON jobs, File-based storage)<br>Task Scheduler (PHP-based email reminder system)
 
-🎓 B.Tech in Computer Science & Engineering — MAKAUT (2020–2026)
+🎓 B.Tech in Computer Science & Engineering — MAKAUT (2022–2026)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-pandit-100969261/)) 
 
