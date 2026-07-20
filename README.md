@@ -1,11 +1,234 @@
-# 💫 About Me:
-Hi! I'm Sudip Pandit, an aspiring Software Developer passionate about building scalable and user-centric applications. I specialize in Python, Django, and SQL, with additional experience in C, Java, and Data Structures & Algorithms.<br>I'm currently exploring Django REST Framework to deepen my backend development skills and build robust APIs. I enjoy solving real-world problems through code and continuously learning new technologies.<br><br>📚 Certifications:<br>Python Foundation (Wingspan)<br>AWS Academy Graduate – Cloud Foundations<br>AWS Academy Graduate – Machine Learning Foundations<br>💡 Projects:<br>Recipe Manager Web App (Django, CRUD, Image Upload)<br>GitHub Timeline Email Verification System (PHP, CRON jobs, File-based storage)<br>Task Scheduler (PHP-based email reminder system)
+<!-- ========================= -->
+<!-- Animated Header -->
+<!-- ========================= -->
 
-🎓 B.Tech in Computer Science & Engineering — MAKAUT (2022–2026)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-pandit-100969261/)) 
+<h1 align="center">Hi 👋, I'm Sudip Pandit</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+<h3 align="center">
+Software Engineer • Full Stack Developer • Machine Learning Researcher
+</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Researcher;Building+Scalable+Applications;Always+Learning+Something+New" />
+</p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Sudip Pandit
+
+Role:
+  - Software Developer
+  - Machine Learning Researcher
+
+Education:
+  - B.Tech Computer Science
+
+Currently Learning:
+  - System Design
+  - Cloud Computing
+  - DevOps
+  - Advanced Backend Engineering
+
+Interests:
+  - Backend Development
+  - Artificial Intelligence
+  - Cloud
+  - Open Source
+
+Location:
+  - India
+```
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,dart,sql" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,express,flutter" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## ❤️ Cardiovascular Disease Prediction
+
+Machine Learning based healthcare prediction system with Flutter application.
+
+**Tech**
+
+- Python
+- Flutter
+- Machine Learning
+
+---
+
+## 🐶 Pet Rescue Platform
+
+A full-stack web platform for pet adoption and rescue management.
+
+**Tech**
+
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+
+---
+
+## 🍽 Smart Recipe Book
+
+Recipe recommendation platform with intelligent search.
+
+**Tech**
+
+- Python
+- Django
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern responsive developer portfolio.
+
+---
+
+# 🏆 Research Publication
+
+**Identification of Health Crisis During COVID-19 Using Machine Learning Techniques**
+
+Published Research Paper
+
+---
+
+# 📜 Certifications
+
+- AWS Academy Cloud Foundations
+- AWS Academy Machine Learning Foundations
+- Infosys Springboard Internship
+- NPTEL Data Science for Engineers
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudippandit969&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudippandit969&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sudippandit969&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudippandit969&theme=algolia&no-frame=true&margin-w=8&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudippandit969&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sudippandit969/sudippandit969/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sudip-pandit-100969261">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://github.com/sudippandit969">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/panditsuw305/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=sudippandit969&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"First, solve the problem. Then, write clean and scalable code."*
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
